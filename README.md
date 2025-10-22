@@ -1,0 +1,1 @@
+# Predicting-Exoplanet-Detection-Methods-Using-Stellar-and-Planetary-Characteristics
