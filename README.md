@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project explores whether the detection method of an exoplanet can be inferred from its stellar and planetary parameters using data-driven modeling. As thousands of exoplanets have been discovered through different techniques—such as transit photometry and radial velocity—each method introduces unique observational biases that affect which planets are detected. By analyzing physical parameters from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS), this project seeks to understand how these biases shape current discoveries and to model the relationship between detection methods and system characteristics.
+This project explores whether the detection method of an exoplanet can be inferred from its stellar and planetary parameters using data-driven modeling. As thousands of exoplanets have been discovered through different techniques such as transit photometry and radial velocity each method introduces unique observational biases that affect which planets are detected. By analyzing physical parameters from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS), this project seeks to understand how these biases shape current discoveries and to model the relationship between detection methods and system characteristics.
 
 The problem addressed is the lack of quantitative understanding of how detection methods depend on measurable physical properties. Current analyses in exoplanet science often describe biases qualitatively; this project aims to formalize that understanding through machine learning–based classification and feature analysis.
 
